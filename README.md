@@ -192,3 +192,10 @@ Visualizations: Time Series, Correlation, Distribution, Confusion Matrix
 # 📌 Conclusion
 
 This project provides statistical, predictive, and system-dynamic insights into mental health patterns. It highlights the importance of family history, stress exposure, and treatment behavior in shaping mental health outcomes, while also showing how preventive strategies and system-level interventions can help improve mental well-being.
+# 📌Disclaimer
+This project is an individual work. No one is allowed to edit, modify, or reuse this project in any form. Unauthorized use or replication is strictly prohibited.
+
+# Author
+Neha Altaf
+linkedin: www.linkedin.com/in/neha-altaf-44952726a
+
